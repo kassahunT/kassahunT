@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kassahun Tilahun(BSc Electrical and computer engineering)
-- 👀 I’m interested in Software Development, AI, Machine Learning
-- 🌱 Currently I am learning Proffessional Software Development, and   
-- 💞 I'm interested on working on software development and related works.
+- 👀 I’m interested in embeded system develpment,application software development, AI and Machine Learning
+- 🌱 Currently I am learning Proffessional Software Development.
 - 📫 Any one interested can reach me through ktilahun28@gmail.com
 
 <p align="center">
