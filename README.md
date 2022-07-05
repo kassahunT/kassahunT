@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kassahun Tilahun(BSc Electrical and computer engineering)
-- 👀 I’m interested in embeded system develpment,application software development, AI and Machine Learning
+- I have very good experiance on full stack web development specialy very good on React.
+- 👀 I’m interested in embeded system develpment,application software development,embeded system develpment, AI and Machine Learning
 - 🌱 Currently I am learning Proffessional Software Development,and at the same time working projects by react js.
 - 📫 Any one interested can reach me through ktilahun28@gmail.com
 
