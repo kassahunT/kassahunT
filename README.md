@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Kassahun Tilahun(BSc Electrical and computer engineering)
-- I have very good experiance on full stack web development. specialy, very good on React.
-- 👀 I’m interested in embeded system develpment,application software development,embeded system develpment, AI and Machine Learning
-- 🌱 Currently I am learning Proffessional Software Development,and at the same time working projects by react js.
-- 📫 Any one interested can reach me through ktilahun28@gmail.com
+- 👋 Hi, I’m Kassahun Tilahun 
+- 🌱 Senior Software Engineer with 9+ years of experience in developing scalable systems using React.js, Node.js, Django, Python, FastAPI, and RESTful APIs..
+- 👀 Expertise in all stages of the Software Development Process, including requirements gathering, design, coding, testing, deployment, and ongoing maintenance.
+- 👀 Proficient in microservices, database management (PostgreSQL, MySQL, MongoDB), and CI/CD automation.
+- 🌱 Skilled in writing maintainable code, implementing robust testing (Jest, PyTest), and integrating messaging systems like RabbitMQ and Kafka.
+- 🌱 ktilahun28@gmail.com | +251-912-464-752 | +251-945-469-016 | Addis Ababa, Ethiopia | https://www.linkedin.com/in/kassahun-tilahun-b93a37bb/
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activity</b></i></p>
